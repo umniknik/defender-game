@@ -85,3 +85,6 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# Добавьте каталог dist в .gitignore.
+dist/
